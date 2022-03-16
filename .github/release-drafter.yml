@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: dependabot-test-$NEXT_MINOR_VERSION
